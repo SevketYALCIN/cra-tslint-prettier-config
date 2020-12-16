@@ -2,7 +2,7 @@ import logo from './logo.svg'
 import './App.css'
 
 function App() {
-  const text = 'Learn React'
+  const text: string = 'Learn React'
   return (
     <div className="App">
       <header className="App-header">
